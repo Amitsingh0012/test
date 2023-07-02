@@ -2,6 +2,12 @@
 
 Weekly Test[02-07-2023]
 
+# Laguage and Frameworks
+ * java
+ * Spring boot
+ * H2 database
+ * tomcat
+
 ## Contents
 
 - [Main](#main)
